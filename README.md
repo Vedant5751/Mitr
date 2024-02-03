@@ -126,7 +126,8 @@ Its generalised and scalability allows it to be easily implemented in your porta
 
 ## Video
 
-<video controls src="public/ReadmeImgs/Video.mp4" title="Video"></video>
+https://github.com/Vedant5751/Mitr/assets/104258810/105a1400-8c61-45f8-aac9-b014ca001fbc
+
 
 ## Setup Instructions
 
